@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TarzanHR/new_template-api-node.git"
+    "url": "git+https://github.com/TarzanHR/sae-virtualisation.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vfourny/nodejs-pokedex-api/issues"
+    "url": "https://github.com/TarzanHR/sae-virtualisation/issues"
   },
-  "homepage": "https://github.com/vfourny/nodejs-pokedex-api#readme",
+  "homepage": "https://github.com/TarzanHR/sae-virtualisation#readme",
   "dependencies": {
     "@prisma/client": "^6.1.0",
     "@types/jsonwebtoken": "^9.0.7",
