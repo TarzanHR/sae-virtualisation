@@ -24,6 +24,18 @@ git commit -m "feat: description de la modification"
 - `git add .` ajoute toutes les modifications.
 - `git commit -m` permet de documenter les modifications avec un message clair. Remplacez `"feat: description de la modification"` par un message explicite.
 
+#### Convention de messages de commit
+
+| Type | Description |
+|------|-------------|
+| `feat:` | Nouvelle fonctionnalité |
+| `fix:` | Correction de bug |
+| `docs:` | Modification de documentation |
+| `style:` | Formatage, point-virgules manquants, etc. |
+| `refactor:` | Refactorisation du code |
+| `test:` | Ajout ou modification de tests |
+| `chore:` | Tâches de maintenance |
+
 ### 4️ Pousser les modifications sur la branche distante
 ```sh
 git push
@@ -51,5 +63,4 @@ Cela vous ramène sur `main` et supprime la branche locale devenue inutile.
   ```
 
 ---
- Vous êtes maintenant prêt à collaborer efficacement sur votre projet Git ! 
 
