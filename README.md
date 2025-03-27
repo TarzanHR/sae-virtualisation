@@ -51,5 +51,4 @@ Cela vous ramène sur `main` et supprime la branche locale devenue inutile.
   ```
 
 ---
- Vous êtes maintenant prêt à collaborer efficacement sur votre projet Git ! 
-
+ceci est un mauvais commit
