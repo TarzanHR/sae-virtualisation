@@ -1,6 +1,6 @@
 services:
   app:
-    image: sae-virtu
+    image: sae-virtualisation
     ports:
       - "3000:3000"
     depends_on:
